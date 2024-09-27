@@ -1,4 +1,4 @@
 void main() 
 {
-	pass
+    printf("Hello, world!\n")
 }
