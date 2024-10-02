@@ -1,4 +1,4 @@
 void main() 
 {
-    printf("Hello, world!\n")
+    printf("Hello, Ukraine!\n")
 }
